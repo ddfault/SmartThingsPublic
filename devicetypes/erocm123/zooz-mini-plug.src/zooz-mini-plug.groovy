@@ -23,7 +23,7 @@
  */
  
 metadata {
-	definition (name: "zooZ Mini Plug", namespace: "erocm123", author: "Eric Maycock") {
+	definition (name: "zooZ Mini Plug ZEN07", namespace: "erocm123", author: "Eric Maycock") {
 		capability "Energy Meter"
 		capability "Actuator"
 		capability "Switch"
